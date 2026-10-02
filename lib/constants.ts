@@ -1,0 +1,1 @@
+export const MAX_USER_STORAGE_BYTES = 250 * 1024 * 1024; // 250 MB
